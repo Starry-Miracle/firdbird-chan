@@ -9,4 +9,8 @@ firebird-chan_1
 firebird-chan_2
 - gaze downward, for notebook/tablet users
 
-Upcoming: orientation T-shirt :)
+firebird-chan_3
+- T-shirt version
+
+firebird-chan_4
+- 3's gaze downard ver
